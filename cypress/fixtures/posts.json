@@ -1,0 +1,65 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "date": "2022-12-13T13:52:04.639Z",
+            "title": "GeForce GTX 1070 ARMOR 8G OC",
+            "description": "MSI GeForce GTX 1070 ARMOR 8G OC 3x DisplayPort, DVI-D, HDMI zo goed als nieuw werkt nog perfect nooit overclockt Kan verzonden worden met Bpost",
+            "price": 170.75,
+            "category": {
+                "id": 1,
+                "name": "Graphics Cards",
+                "blobName": "cat-graphics-cards.webp",
+                "imageUrl": "https://webpietervandewalle.blob.core.windows.net/developmentimages/cat-graphics-cards.webp"
+            },
+            "deliveryType": {
+                "id": 1,
+                "name": "Pick up"
+            },
+            "user": {
+                "id": 1,
+                "username": "Pieterv98"
+            },
+            "city": "Hasselt",
+            "image": {
+                "id": 10,
+                "url": "https://webpietervandewalle.blob.core.windows.net/developmentimages/geforcegrafischekaart.jpg",
+                "blobName": "geforcegrafischekaart.jpg"
+            },
+            "favorite": false
+        },
+        {
+            "id": 2,
+            "date": "2022-12-13T13:52:04.619Z",
+            "title": "AMD Ryzen 5 5500 Game PC / Gaming computer - GTX 1650 4GB",
+            "description": "Deze RGB game PC met Ryzen 5 5500 CPU en GTX 1650 videokaart is de perfecte keus voor een betaalbare gamecomputer, die toch alle moderne games kan draaien op medium tot high settings.",
+            "price": 679,
+            "category": {
+                "id": 2,
+                "name": "Desktop PCs",
+                "blobName": "cat-desktop-pcs.webp",
+                "imageUrl": "https://webpietervandewalle.blob.core.windows.net/developmentimages/cat-desktop-pcs.webp"
+            },
+            "deliveryType": {
+                "id": 3,
+                "name": "Pick up or ship"
+            },
+            "user": {
+                "id": 2,
+                "username": "Bart45612"
+            },
+            "city": "Brussel",
+            "image": {
+                "id": 1,
+                "url": "https://webpietervandewalle.blob.core.windows.net/developmentimages/amdryzen5.jfif",
+                "blobName": "amdryzen5.jfif"
+            },
+            "favorite": false
+        }
+    ],
+    "count": 2,
+    "total_posts": 2,
+    "limit": 2,
+    "offset": 0,
+    "hasNext": false
+}
